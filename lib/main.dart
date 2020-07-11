@@ -21,7 +21,7 @@ void main() {
       style: TextStyle(color: Colors.lightBlueAccent, fontSize: 30),
       ),
       ),
-      backgroundColor: Colors.deepPurple,
+      backgroundColor: Colors.green,
       ),
       body: SafeArea(child: Center(
       child: Image(
